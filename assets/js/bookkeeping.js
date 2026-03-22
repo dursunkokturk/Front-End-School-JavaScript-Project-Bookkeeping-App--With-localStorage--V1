@@ -110,7 +110,7 @@ for (let i = 0; i < transactions.length; i++) {
   }
 }
 
-
+// ========================= Bilanco Hesaplama Fonksiyonu =========================
 function showBalance() {
   let totalIncome = 0;
   let totalExpense = 0;
