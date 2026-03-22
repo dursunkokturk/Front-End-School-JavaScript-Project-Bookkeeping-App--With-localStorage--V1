@@ -123,7 +123,7 @@ function showBalance() {
     }
   }
 
-  alert(
+  console.log(
     "Toplam Gelir: " + totalIncome + " TL\n" +
     "Toplam Gider: " + totalExpense + " TL\n" +
     "Bakiye: " + (totalIncome - totalExpense) + " TL"
